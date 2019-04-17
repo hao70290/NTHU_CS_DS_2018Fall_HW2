@@ -2,15 +2,15 @@
 Implement linked list operations. 
 
 ## implementation
-•InsertBack
-•InsertFront
-•InsertAfter
-•InsertBefore
-•Delete
-•DeleteFront
-•DeleteBack
-•Reverse
-•Rotate
+•InsertBack  
+•InsertFront  
+•InsertAfter  
+•InsertBefore  
+•Delete  
+•DeleteFront  
+•DeleteBack  
+•Reverse  
+•Rotate  
 
 ## Input
 Commands, following by arguments if necessary.   
